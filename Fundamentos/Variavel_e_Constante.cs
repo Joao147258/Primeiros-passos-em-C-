@@ -8,6 +8,7 @@ namespace hello.Fundamentos
     public class Variavel_e_Constante
     {
         public static void Executar(){
+            
             //area da circunferencia
             // no c# tem que declarar o tipo da variavel, que nesse caso é double, que representa um valor real que aceita casas decimais 
             double raio = 4.5;
